@@ -1,0 +1,22 @@
+{
+  "id": "services",
+  "name": "Services",
+  "heading": "What I Offer",
+  "services": [
+    {
+      "name": "Responsive Websites",
+      "desc": "Cillum consectetur laborum aliqua dolore laborum occaecat elit ut.",
+      "img": "https://www.rouge-media.com/wp-content/uploads/2019/05/web-app-illustration-1.png"
+    },
+    {
+      "name": "Web Apps",
+      "desc": "Cillum consectetur laborum aliqua dolore laborum occaecat elit ut.",
+      "img": "https://wichitawebdev.com/lmg-cms/wp-content/uploads/2018/06/pwa-reliable.png"
+    },
+    {
+      "name": "Mobile Apps",
+      "desc": "Cillum consectetur laborum aliqua dolore laborum occaecat elit ut.",
+      "img": "https://www.softxpert.com/wp-content/uploads/2018/03/Mobile-app-for-your-business.png"
+    }
+  ]
+}

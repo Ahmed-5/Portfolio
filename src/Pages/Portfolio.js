@@ -46,7 +46,7 @@ export default function Portfolio() {
               </p>
             </div>
             <img
-              src="https://monteluke.com.au/wp-content/gallery/linkedin-profile-pictures/34217-MLS-Fabian-Ekker-003flin.jpg"
+              src="https://avatars.githubusercontent.com/u/39542343?s=400&u=c094ae3133140f0f7e6cdd8d02f8670811c94535&v=4"
               className="w-80 rounded-full flex-shrink-0 border-6 border-white shadow-lg"
               alt="image"
             />

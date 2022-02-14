@@ -1,31 +1,31 @@
 {
   "id": "works",
   "name": "Work",
-  "heading": "Eu est aute reprehenderit do nulla veniam excepteur laboris eu dolore ad.",
+  "heading": "Some previous projects I was invovled in.",
   "works": [
     {
-      "name": "Project 1",
-      "desc": "Occaecat minim enim aute dolore veniam.",
-      "img": "https://slickdeals.net/blog/wp-content/uploads/2020/03/20-hero-dell-remote-work-3.jpg",
+      "name": "Fractals",
+      "desc": "Rendering some of my favorite fractals in jupyter notebooks",
+      "img": "https://raw.githubusercontent.com/Ahmed-5/fractals/main/images/triple_dragon.png",
       "link": "https://github.com/Ahmed-5/fractals"
     },
     {
-      "name": "Project 2",
-      "desc": "Occaecat minim enim aute dolore veniam.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Paperless_work_desk_with_an_iPad%2C_iMac_and_a_MacBook.jpg",
-      "link": "https://github.com/Ahmed-5/fractals"
+      "name": "Pygame Chess Engine",
+      "desc": "A Chess Engine using pygame",
+      "img": "https://raw.githubusercontent.com/Ahmed-5/chess-engine-with-ui/main/demo.png",
+      "link": "https://github.com/Ahmed-5/chess-engine-with-ui"
     },
     {
-      "name": "Project 3",
-      "desc": "Occaecat minim enim aute dolore veniam.",
-      "img": "https://hbr.org/resources/images/article_assets/2014/10/Mar20_05_1187745190.jpg",
-      "link": "https://github.com/Ahmed-5/fractals"
+      "name": "Tesla Clone Landing Page",
+      "desc": "A landing page design for tesla",
+      "img": "https://raw.githubusercontent.com/Ahmed-5/Tesla/master/page.jpg",
+      "link": "https://github.com/Ahmed-5/Tesla"
     },
     {
-      "name": "Project 4",
-      "desc": "Occaecat minim enim aute dolore veniam.",
-      "img": "https://api.time.com/wp-content/uploads/2021/02/laptop-home-office.jpg",
-      "link": "https://github.com/Ahmed-5/fractals"
+      "name": "Apple Clone Website",
+      "desc": "A Clone For previous version of Apple's page",
+      "img": "https://raw.githubusercontent.com/Ahmed-5/Apple-UI/master/page.jpg",
+      "link": "https://github.com/Ahmed-5/Apple-UI"
     }
   ]
 }
